@@ -17,6 +17,6 @@ echo edited $EDITED!
 #yo-santosh
 >>>>>>> refs/remotes/origin/main
 
-# hello
-#Welcome
-
+# hello 
+# Welcome 
+# changes cloned to MAC
