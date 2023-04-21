@@ -1,2 +1,4 @@
 #!/bin/bash
-echo Hello World!
+FIRST_NAME=SANTOSH
+LAST_NAME=KOLLATI
+echo Hello $FIRST_NAME $LAST_NAME!
